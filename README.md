@@ -1,6 +1,9 @@
 
 ## MoWaS_NINA_Analyse
 
+**Github rendert Folium-Karten nicht - deshalb hier ein [Link zu nbviewer](https://nbviewer.jupyter.org/github/orSpec/MoWaS_NINA_Analyse/blob/master/Analyse_Meldungen.ipynb), wo das gesamte Notebook angezeigt wird.**
+
+
 Motiviert durch den [bundesweiten Warntag 2020](https://warnung-der-bevoelkerung.de/) kam die Idee auf, zu analysieren, welche Meldungen durch [MoWaS](https://www.bbk.bund.de/DE/AufgabenundAusstattung/Krisenmanagement/WarnungderBevoelkerung/MoWaS/ModularesWarnsystem_node.html) (Modulares Warnsystem) an die Warnapp [NINA](https://www.bbk.bund.de/DE/NINA/Warn-App_NINA_node.html) gesendet wurden.
 
 ### Daten
